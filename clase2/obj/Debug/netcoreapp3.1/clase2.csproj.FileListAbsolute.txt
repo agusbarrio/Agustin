@@ -1,0 +1,13 @@
+C:\introprog\Agustin\clase2\bin\Debug\netcoreapp3.1\clase2.exe
+C:\introprog\Agustin\clase2\bin\Debug\netcoreapp3.1\clase2.deps.json
+C:\introprog\Agustin\clase2\bin\Debug\netcoreapp3.1\clase2.runtimeconfig.json
+C:\introprog\Agustin\clase2\bin\Debug\netcoreapp3.1\clase2.runtimeconfig.dev.json
+C:\introprog\Agustin\clase2\bin\Debug\netcoreapp3.1\clase2.dll
+C:\introprog\Agustin\clase2\bin\Debug\netcoreapp3.1\clase2.pdb
+C:\introprog\Agustin\clase2\obj\Debug\netcoreapp3.1\clase2.csprojAssemblyReference.cache
+C:\introprog\Agustin\clase2\obj\Debug\netcoreapp3.1\clase2.AssemblyInfoInputs.cache
+C:\introprog\Agustin\clase2\obj\Debug\netcoreapp3.1\clase2.AssemblyInfo.cs
+C:\introprog\Agustin\clase2\obj\Debug\netcoreapp3.1\clase2.csproj.CoreCompileInputs.cache
+C:\introprog\Agustin\clase2\obj\Debug\netcoreapp3.1\clase2.dll
+C:\introprog\Agustin\clase2\obj\Debug\netcoreapp3.1\clase2.pdb
+C:\introprog\Agustin\clase2\obj\Debug\netcoreapp3.1\clase2.genruntimeconfig.cache
