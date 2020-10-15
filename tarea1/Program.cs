@@ -1,0 +1,43 @@
+﻿using System;
+
+namespace Tarea_1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //Ej 1
+            string nombre = "Agustin";
+            string apellido = "Barrio";
+            int añoactual = 2020;
+            int añonacimiento = 2000;
+            Console.WriteLine("Ej 1: Descripcion de la persona: " + (nombre + " " + apellido) + ", y su edad es " + (añoactual-añonacimiento));
+            
+            //Ej 2
+            int num1 = 15;
+            int num2 = 20;
+            Console.WriteLine("Ej 2: El resultado de " + (num1) + " + " + (num2) + " = "  + (num1 + num2));
+
+            //Ej 3
+            Console.WriteLine("Ej 3: El resultado de " + (num1) + " - " + (num2) + " = "  + (num1 - num2));
+
+            //Ej4
+            Console.WriteLine("Ej 4: El resultado de " + num1 + " x " + num2 + " = " + (num1 * num2));
+            int num3 = 2;
+            Console.WriteLine("      El resultado de " + (num1 * num2) + " / " + num3 + " = " + ((num1 * num2) / num3));
+
+            //Ej 5
+            int n0 = 0;
+            int n1 = 1;
+            int n2 = n0 + n1;
+            int n3 = n1 + n2;
+            int n4 = n2 + n3;
+            int n5 = n3 + n4;
+            int n6 = n4 + n5;
+            int n7 = n5 + n6;
+            int n8 = n6 + n7;
+            int n9 = n7 + n8;
+            Console.WriteLine("Ej 5: Secuencia: " + n0 + ", " + n1 + ", " + n2 + ", " + n3 + ", " + n4 + ", " + n5 + ", " + n6 + ", " + n7 + ", " + n8 + ", " + n9);
+        }
+    }
+}

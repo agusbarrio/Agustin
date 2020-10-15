@@ -1,0 +1,26 @@
+C:\Introduccion a la programacion\1\Tarea 1\bin\Debug\netcoreapp3.1\Tarea 1.exe
+C:\Introduccion a la programacion\1\Tarea 1\bin\Debug\netcoreapp3.1\Tarea 1.deps.json
+C:\Introduccion a la programacion\1\Tarea 1\bin\Debug\netcoreapp3.1\Tarea 1.runtimeconfig.json
+C:\Introduccion a la programacion\1\Tarea 1\bin\Debug\netcoreapp3.1\Tarea 1.runtimeconfig.dev.json
+C:\Introduccion a la programacion\1\Tarea 1\bin\Debug\netcoreapp3.1\Tarea 1.dll
+C:\Introduccion a la programacion\1\Tarea 1\bin\Debug\netcoreapp3.1\Tarea 1.pdb
+C:\Introduccion a la programacion\1\Tarea 1\obj\Debug\netcoreapp3.1\Tarea 1.csprojAssemblyReference.cache
+C:\Introduccion a la programacion\1\Tarea 1\obj\Debug\netcoreapp3.1\Tarea 1.AssemblyInfoInputs.cache
+C:\Introduccion a la programacion\1\Tarea 1\obj\Debug\netcoreapp3.1\Tarea 1.AssemblyInfo.cs
+C:\Introduccion a la programacion\1\Tarea 1\obj\Debug\netcoreapp3.1\Tarea 1.csproj.CoreCompileInputs.cache
+C:\Introduccion a la programacion\1\Tarea 1\obj\Debug\netcoreapp3.1\Tarea 1.dll
+C:\Introduccion a la programacion\1\Tarea 1\obj\Debug\netcoreapp3.1\Tarea 1.pdb
+C:\Introduccion a la programacion\1\Tarea 1\obj\Debug\netcoreapp3.1\Tarea 1.genruntimeconfig.cache
+C:\programacion\1\Tarea 1\bin\Debug\netcoreapp3.1\Tarea 1.exe
+C:\programacion\1\Tarea 1\bin\Debug\netcoreapp3.1\Tarea 1.deps.json
+C:\programacion\1\Tarea 1\bin\Debug\netcoreapp3.1\Tarea 1.runtimeconfig.json
+C:\programacion\1\Tarea 1\bin\Debug\netcoreapp3.1\Tarea 1.runtimeconfig.dev.json
+C:\programacion\1\Tarea 1\bin\Debug\netcoreapp3.1\Tarea 1.dll
+C:\programacion\1\Tarea 1\bin\Debug\netcoreapp3.1\Tarea 1.pdb
+C:\programacion\1\Tarea 1\obj\Debug\netcoreapp3.1\Tarea 1.csprojAssemblyReference.cache
+C:\programacion\1\Tarea 1\obj\Debug\netcoreapp3.1\Tarea 1.AssemblyInfoInputs.cache
+C:\programacion\1\Tarea 1\obj\Debug\netcoreapp3.1\Tarea 1.AssemblyInfo.cs
+C:\programacion\1\Tarea 1\obj\Debug\netcoreapp3.1\Tarea 1.csproj.CoreCompileInputs.cache
+C:\programacion\1\Tarea 1\obj\Debug\netcoreapp3.1\Tarea 1.dll
+C:\programacion\1\Tarea 1\obj\Debug\netcoreapp3.1\Tarea 1.pdb
+C:\programacion\1\Tarea 1\obj\Debug\netcoreapp3.1\Tarea 1.genruntimeconfig.cache

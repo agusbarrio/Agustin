@@ -1,0 +1,13 @@
+C:\Introduccion a la programacion\Clase 1\bin\Debug\netcoreapp3.1\Clase 1.exe
+C:\Introduccion a la programacion\Clase 1\bin\Debug\netcoreapp3.1\Clase 1.deps.json
+C:\Introduccion a la programacion\Clase 1\bin\Debug\netcoreapp3.1\Clase 1.runtimeconfig.json
+C:\Introduccion a la programacion\Clase 1\bin\Debug\netcoreapp3.1\Clase 1.runtimeconfig.dev.json
+C:\Introduccion a la programacion\Clase 1\bin\Debug\netcoreapp3.1\Clase 1.dll
+C:\Introduccion a la programacion\Clase 1\bin\Debug\netcoreapp3.1\Clase 1.pdb
+C:\Introduccion a la programacion\Clase 1\obj\Debug\netcoreapp3.1\Clase 1.csprojAssemblyReference.cache
+C:\Introduccion a la programacion\Clase 1\obj\Debug\netcoreapp3.1\Clase 1.AssemblyInfoInputs.cache
+C:\Introduccion a la programacion\Clase 1\obj\Debug\netcoreapp3.1\Clase 1.AssemblyInfo.cs
+C:\Introduccion a la programacion\Clase 1\obj\Debug\netcoreapp3.1\Clase 1.csproj.CoreCompileInputs.cache
+C:\Introduccion a la programacion\Clase 1\obj\Debug\netcoreapp3.1\Clase 1.dll
+C:\Introduccion a la programacion\Clase 1\obj\Debug\netcoreapp3.1\Clase 1.pdb
+C:\Introduccion a la programacion\Clase 1\obj\Debug\netcoreapp3.1\Clase 1.genruntimeconfig.cache

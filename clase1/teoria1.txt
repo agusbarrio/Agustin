@@ -1,0 +1,54 @@
+dotnet new console 
+dotnet --> comando de ejecucion de .Net Core
+new ---> creacion de un proyecto 
+console ---> template --->  tipo de programa que queramos crear
+console ---> consola 
+webapp ---> web
+webapi ---> rest applications --> rest --> 
+mobile ---> xamarin 
+razor - blazor --- 
+
+
+Clase : bluePrint --> template --> modelo en base a ....
+        la representacion de lo que quiero hacer
+        le doy las instruccion programaticamente 
+        ejm hacer que num1 + num2 = X
+        num1 = 2 
+        num2 = 8
+        10
+        num1= 80
+        num2= 20 
+        100
+        
+
+log(x)
+sin(x)
+tan(x)
+cons(x)
+
+tan(10) ---->
+
+main(valor) ---> hello world
+
+----> c#  ---> netCore
+     main ---> punto de inicio 
+
+
+Teoria de una variable en sistemas ( lenguaje de programacion)
+Una variable es un espacio en memoria, asociado a un tipo
+los lenguajes como C# / java / c++ / c , entre otros son tipados
+
+la variable guarda un tipo de valor en especifico
+
+ejemplo
+cadena de texto    => "hola mundo" 
+numeros enteros = 22
+numeros double, float , long = 2.999 -->
+numero long -> 2e00l
+boolean ---> true , false 
+dynamic ---> "dante" ---> 2 ---> true 
+object ----> representacion en memoria de una clase
+           object ---> new 
+{ [ () ] }
+
+(     ()   +   () *  ())
